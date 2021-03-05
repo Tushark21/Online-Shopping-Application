@@ -6,5 +6,5 @@ Shopping Application developed using java (swing) and integrated with database u
 - Java IDE (Neatbeans,etc for compiling source code)
 - SQL-connector
 
-### UI:
+### DEMO:
 ![Demo of Online Shopping Application](src/demo/buykart.gif)
